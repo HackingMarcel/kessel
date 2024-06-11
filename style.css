@@ -17,18 +17,18 @@ h1 {
 
 h2 {
   font-size: 3em;
-  color:  wit;
+  color: solid wit;
 }
 
 h3 {
   font-size: 3em;
-  color:  blauw;
+  color: solid blauw;
 }
 
 hr {
     margin: 20px auto;
-    color:  white;
-    border: 3px  blue;
+    color:  solid white;
+    border: 3px solid blue;
     max-width: 65px;
     opacity: 1; 
    }
