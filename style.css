@@ -12,17 +12,17 @@ html {
 
 h1 {
   font-size: 3em;
-  color:  red;
+  color:  darkgreen;
 }
 
 h2 {
   font-size: 3em;
-  color: white;
+  color: seagreen;
 }
 
 h3 {
   font-size: 3em;
-  color: blue;
+  color: seagreen;
 }
 
 hr {
